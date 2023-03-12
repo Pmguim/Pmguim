@@ -20,7 +20,7 @@
     <img src="https://user-images.githubusercontent.com/70174724/224566779-c5625084-b59d-471f-9549-d9a76e53d1cb.gif" >
    <br />
 </a>
-    <img src="https:https://user-images.githubusercontent.com/70174724/224570051-5c80fb7a-ec99-4824-8c53-ce75ef3a9cab.gif">
+    <img align="right" src="https://github.com/Pmguim/bulbasaurGIF/blob/main/Bulbasaur.gif" width="120">
 
 </div>
     <div>
