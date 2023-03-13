@@ -14,9 +14,9 @@
 <div align="center">
 <a href="https://github.com/Pmguim">
     <!--Dados do perfil (Nota A+)-->
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Pmguim&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pmguim&show_icons=true&theme=radical">
     <!--Layout compacto das linguagens usadas:-->
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmguim&layout=compact&theme=monokai" alt="">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmguim&layout=compact&theme=monokai">
     <img src="https://user-images.githubusercontent.com/70174724/224566779-c5625084-b59d-471f-9549-d9a76e53d1cb.gif" >
    <br />
 </a>
