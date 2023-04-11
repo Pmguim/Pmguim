@@ -7,10 +7,11 @@
 - 🕹️Jogos favoritos: NFS, Forza, Silent Hill e Half-Life
 - 💻 Também costumo trabalhar com audiovisual editando vídeos
 
-<head>
+<head>      
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 
+<body>
 <div align="center">
 <a href="https://github.com/Pmguim">
     <!--Dados do perfil (Nota A+)-->
@@ -27,11 +28,9 @@
         <h3 class="linguagens">Linguagens e habilidades:</h3>
     <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>    
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
+    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>    
     </div>
     
    
@@ -61,3 +60,4 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
    </a>
     </div>
+ </body>
